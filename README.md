@@ -34,7 +34,7 @@ A practical look at running MySQL on Kubernetes with a database operator — dep
 
 | Resource | Link |
 |:--|:--|
-| Slides | [Download PDF](The%20Developers%20Conferece%20-%202026/Kubernetes%20esta%CC%81%20realmente%20pronto%20para%20banco%20de%20dados_.pdf) |
+| Slides | [Download PDF](The%20Developers%20Conference%20-%202026/Kubernetes%20esta%CC%81%20realmente%20pronto%20para%20banco%20de%20dados_.pdf) |
 | Event page | [TDC Floripa 2026 — Trilha Arquitetura Cloud](https://thedevconf.com/tdc/2026/florianopolis/trilha-arquitetura-cloud) |
 | Speaker profile | [Roberto Garcia de Bem](https://thedevconf.com/palestrante/roberto-de-bem) |
 
