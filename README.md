@@ -2,9 +2,7 @@
 
 Conference and meetup slides from **Roberto Garcia de Bem** — Database Engineer at [Percona](https://www.percona.com/).
 
-> Newest presentations first. Click any row in the table below to jump to full details.
-
-## At a glance
+## Quick Info
 
 | Date | Talk | Event | Slides | Video |
 |:--|:--|:--|:--:|:--:|
